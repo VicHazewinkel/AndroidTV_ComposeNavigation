@@ -6,10 +6,10 @@ Flexibility: Compose can be used to create any type of UI, from simple layouts t
 Simplified & Accelerated Development: Compose is compatible with existing code and enables developers to more efficiently build apps with less code.
 Intuitive: Compose uses a declarative syntax that lets you to make changes to your UI, debug, understand and review your code.
 
-<h3>Setup</h3>
+<h1>Setup</h1>
 Using Jetpack Compose on Android TV is similar to using Jetpack Compose for any other Android project. The main difference is that Compose for TV adds libraries that offer TV optimized components and make it easier to create user interfaces tailored to TV. In some cases those components share the same name as their non-TV counterparts, such as androidx.tv.material3.Button and androidx.compose.material3.Button.
 
-<h3>Jetpack Compose toolkit dependencies</h3>
+<h1>Jetpack Compose toolkit dependencies</h1>
 To use Compose for TV, you need to include Jetpack Compose toolkit dependencies in your app's build.gradle file as follows:
 
 dependencies {
